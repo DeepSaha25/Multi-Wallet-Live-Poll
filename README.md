@@ -49,12 +49,13 @@ npm run dev
 
 ## 3) Required README Submission Data
 
-Fill these values before submission:
+**Submission Details:**
 
-- Live demo link (optional):
-- Screenshot showing wallet options:
-- Deployed contract address: CCELERZIZABY7IBK3EYI6MNWQE3YGE7ZIFVVFZOR7S6HOZZXRL5EFDIX
-- Transaction hash of a contract call (deploy): af1c8d2afb15f020e6926220a358e77ce21124803c41bdff2430ab81bc81a603
+- **Live demo link (optional)**: http://localhost:5173 (local development)
+- **Screenshot showing wallet options**: [screenshots/wallet-options.png](screenshots/wallet-options.png)
+- **Deployed contract address (testnet)**: `CCELERZIZABY7IBK3EYI6MNWQE3YGE7ZIFVVFZOR7S6HOZZXRL5EFDIX`
+- **Contract deployment tx**: [af1c8d2afb15f020e6926220a358e77ce21124803c41bdff2430ab81bc81a603](https://stellar.expert/explorer/testnet/tx/af1c8d2afb15f020e6926220a358e77ce21124803c41bdff2430ab81bc81a603)
+- **Vote contract call tx**: [50a38365690e51c12013fd273f2ba64a2f299ea588b1d5b08aa9143523f62a48](https://stellar.expert/explorer/testnet/tx/50a38365690e51c12013fd273f2ba64a2f299ea588b1d5b08aa9143523f62a48)
 
 ## Implemented Requirement Mapping
 
